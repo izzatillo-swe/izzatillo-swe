@@ -1,18 +1,18 @@
 ### Hi there 👋
 
-<h1 align="center">Hi 👋,   I'm  Izzatullo</h1>
-<h1 align="center">Java backend developer from Uzbekistan 🇺🇿 </h1>
+<h1 align="center">Hi 👋,   I'm  Izzatillo</h1>
+<h1 align="center">Java software engineer from Uzbekistan</h1>
 <img align="right" alt="Coding" width="500" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
 - 💬 Ask me about   **[Java](https://www.java.com/en),  [Spring](https://spring.io),  [PostgresSQL](https://www.postgresql.org)**
 
 - 📫 How to reach me   **izzatillotilavoldiyev5@gmail.com**
 
-- 📄 Know about my experiences   [resume](https://drive.google.com/file/d/1OuRzIhmajwkGhqV0JgKyuhfws1l1YJ4i/view?usp=sharing)
+- 📄 Know about my experiences   [resume](https://drive.google.com/file/d/1xuTzn_aAXXh8yE4XkSwoACz3h2ecNZrR/view?usp=sharing)
 
-- <h3 align="left">Connect with me:    [+998 93 830 56 36]  </h3>
+- <h3 align="left">Connect with me:    [+998 88 488 2228]  </h3>
 <p align="left">
-<a href="https://t.me/Izzatullo_o5" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/2111/2111646.png" alt="Izzatullo" height="30" width="35" /></a>
+<a href="https://t.me/izzatillo_05" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/2111/2111646.png" alt="Izzatillo" height="30" width="35" /></a>
 </p>
 
 
@@ -69,60 +69,29 @@
 </p>
 
 
-## 📘 My top open source projects
-
-<table>
-  <thead align="center">
-    <tr border: none;>
-      <td><b>📘 Projects</b></td>
-<!--       <td><b>⭐ Stars</b></td>
-      <td><b>🤝 Forks</b></td> -->
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://github.com/izzatilloTilavoldiyev/Payment-system-Json"><b>Payment System (Java)</b></a></td>
-    </tr>
-	  <tr>
-      <td><a href="https://github.com/izzatilloTilavoldiyev/Travel-Agency-bot"><b>Travel Agency-bot (Java)</b></a></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/izzatilloTilavoldiyev/Learning-center-Aplication"><b>Learning Center App (Spring boot)</b></a></td>
-    </tr> 
-	  <tr>
-      <td><a href="https://github.com/izzatilloTilavoldiyev/Auto-service-spring"><b>Auto Service (Spring boot)</b></a></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/izzatilloTilavoldiyev/Kun-uz-demo"><b>Kun.uz demo (Spring boot)</b></a></td>
-    </tr>
-  </tbody>
-</table>
-<br>
-
-
 ### :fire: My Github Stats :
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=izzatilloTilavoldiyev&stroke=EB5454" alt="Izzatullo Tilavoldiyev" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=izzatillo-swe&stroke=EB5454" alt="Izzatillo Tilavoldiyev" /></p>
 
 
    <p align="center">
-          <a href="https://github.com/izzatilloTilavoldiyev/">
-          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=izzatilloTilavoldiyev&theme=gruvbox&hide_border=true" />
-          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=izzatilloTilavoldiyev&theme=gruvbox&hide_border=true" />
+          <a href="https://github.com/izzatillo-swe/">
+          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=izzatillo-swe&theme=gruvbox&hide_border=true" />
+          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=izzatillo-swe&theme=gruvbox&hide_border=true" />
           </a>
        </p>
 
 <p align="center">
-        <a href="https://github.com/izzatilloTilavoldiyev/">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=izzatilloTilavoldiyev&langs_count=6&theme=gruvbox&layout=compact&hide_border=true"
+        <a href="https://github.com/izzatillo-swe/">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=izzatillo-swe&langs_count=6&theme=gruvbox&layout=compact&hide_border=true"
           alt="1999AZZAR :: overall Top Langs " /></a>
       </p>
 
  <p align="center">
-          <a href="https://github.com/izzatilloTilavoldiyev/">
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=izzatilloTilavoldiyev&theme=gruvbox&layout=compact&hide_border=true"
+          <a href="https://github.com/izzatillo-swe/">
+          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=izzatillo-swe&theme=gruvbox&layout=compact&hide_border=true"
           alt="1999AZZAR :: Top Langs by repo" />
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=izzatilloTilavoldiyev&theme=gruvbox&layout=compact&hide_border=true"
+          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=izzatillo-swe&theme=gruvbox&layout=compact&hide_border=true"
           alt="1999AZZAR :: Top Langs by commit" />
           </a>
         </p>
