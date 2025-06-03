@@ -68,11 +68,11 @@
 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jareer111&show_icons=true&locale=en&layout=compact" alt="jareer111" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=izzatillo-swe&show_icons=true&locale=en&layout=compact" alt="izzatillo-swe" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jareer111&show_icons=true&locale=en" alt="jareer111" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=izzatillo-swe&show_icons=true&locale=en" alt="izzatillo-swe" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jareer111&" alt="jareer111" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=izzatillo-swe&" alt="izzatillo-swe" /></p>
 
 <div>
      <h1 align="center">
