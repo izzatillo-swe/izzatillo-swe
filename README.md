@@ -4,6 +4,8 @@
 <h1 align="center">Java software engineer from Uzbekistan</h1>
 <img align="right" alt="Coding" width="500" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=izzatillo-swe&label=Profile%20views&color=0e75b6&style=flat" alt="izzatillo-swe" /> </p>
+
 - 💬 Ask me about   **[Java](https://www.java.com/en),  [Spring](https://spring.io),  [PostgresSQL](https://www.postgresql.org)**
 
 - 📫 How to reach me   **izzatillotilavoldiyev5@gmail.com**
