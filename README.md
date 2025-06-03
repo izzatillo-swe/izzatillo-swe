@@ -68,35 +68,11 @@
 
 </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jareer111&show_icons=true&locale=en&layout=compact" alt="jareer111" /></p>
 
-### :fire: My Github Stats :
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jareer111&show_icons=true&locale=en" alt="jareer111" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=izzatillo-swe&stroke=EB5454" alt="Izzatillo Tilavoldiyev" /></p>
-
-
-   <p align="center">
-          <a href="https://github.com/izzatillo-swe/">
-          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=izzatillo-swe&theme=gruvbox&hide_border=true" />
-          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=izzatillo-swe&theme=gruvbox&hide_border=true" />
-          </a>
-       </p>
-
-<p align="center">
-        <a href="https://github.com/izzatillo-swe/">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=izzatillo-swe&langs_count=6&theme=gruvbox&layout=compact&hide_border=true"
-          alt="1999AZZAR :: overall Top Langs " /></a>
-      </p>
-
- <p align="center">
-          <a href="https://github.com/izzatillo-swe/">
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=izzatillo-swe&theme=gruvbox&layout=compact&hide_border=true"
-          alt="1999AZZAR :: Top Langs by repo" />
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=izzatillo-swe&theme=gruvbox&layout=compact&hide_border=true"
-          alt="1999AZZAR :: Top Langs by commit" />
-          </a>
-        </p>
-
-</div>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jareer111&" alt="jareer111" /></p>
 
 <div>
      <h1 align="center">
