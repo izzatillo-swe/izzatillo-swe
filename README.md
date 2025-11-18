@@ -12,7 +12,7 @@
 
 - <h3 align="left">Connect with me:    [+998 88 488 2228]  </h3>
 <p align="left">
-<a href="https://t.me/izzatillo_05" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/2111/2111646.png" alt="Izzatillo" height="30" width="35" /></a>
+<a href="https://t.me/izzatillo_swe" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/2111/2111646.png" alt="Izzatillo" height="30" width="35" /></a>
 </p>
 
 
