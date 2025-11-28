@@ -8,7 +8,7 @@
 
 - 💬 Ask me about   **[Java](https://www.java.com/en),  [Spring](https://spring.io),  [PostgresSQL](https://www.postgresql.org)**
 
-- <h3 align="left">Phone:    izzatillo.swe@gmail.com  </h3>
+- <h3 align="left">Email:    izzatillo.swe@gmail.com  </h3>
 
 - <h3 align="left">Phone:    +998 88 488 2228  </h3>
 
